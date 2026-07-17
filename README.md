@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vathana</h1>
 <h3 align="center">I am studying at ISTAD</h3>
 
-- 🔭 I’m currently working on [Mini project](https://sreyrothmon27-ctrl.github.io/project-restaurant/)
+- 🔭 I’m currently leaniung
 
 - 🌱 I’m currently learning **ISTAD**
 
