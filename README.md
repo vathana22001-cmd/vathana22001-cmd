@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vathana</h1>
+<h1 align="center">Hi , I'm Vathana</h1>
 <h3 align="center">💻 Software Engineering Student | Passionate About Programming & Technology</h3>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 ## 🌐 Portfolio
 
-- 👨‍💻 Projects: **https://your-portfolio-link**
+- 👨‍💻 Projects: **[https://your-portfolio-link](http://malub.netlify.app/)**
 - 📫 Email: **vathana22001@gmail.com**
 
 ---
@@ -36,11 +36,6 @@
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="40" height="40"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" width="40" height="40"/>
-</a>
-</p>
-
 ---
 
 ## 💻 Languages & Tools
@@ -55,35 +50,9 @@
 <a href="https://github.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45"/></a>
 <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45"/></a>
 <a href="https://figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45" height="45"/></a>
-<a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45"/></a>
-<a href="https://react.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45"/></a>
+<a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45"/></a>
 <a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45"/></a>
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&margin-w=10"/>
-</p>
-
 ---
 
 ## ✨ Quote
