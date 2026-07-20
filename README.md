@@ -1,12 +1,12 @@
 <h1 align="center">Hi , I'm Vathana</h1>
-<h3 align="center">💻 Software Engineering Student | Passionate About Programming & Technology</h3>
+<h3 align="center"> Software a Student | Passionate About Programming & Technology</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
-## 💻 Languages & Tools
+##  Languages & Tools <3
 
 <p align="left">
 <a href="https://cplusplus.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/></a>
@@ -21,25 +21,25 @@
 
 ---
 
-## 🚀 About Me
+##  About Me <3
 
-- 🎓 I'm currently studying at **ISTAD**
-- 🌱 I'm currently learning **C++, Java, Web Development, and Git/GitHub**
-- 💻 I enjoy building software and solving programming problems
-- 🤝 I'm looking to collaborate on **Open Source & Student Projects**
-- 📚 I'm continuously improving my programming and problem-solving skills
-- ⚡ Fun fact: I love learning how things work from the ground up.
+-  I'm currently studying at **ISTAD**
+-  I'm currently learning **C++, Java, Web Development, and Git/GitHub**
+-  I enjoy building software and solving programming problems
+-  I'm looking to collaborate on **Open Source & Student Projects**
+-  I'm continuously improving my programming and problem-solving skills
+-  Fun fact: I love learning how things work from the ground up.
 
 ---
 
-## 🌐 Portfolio
+## 🌐 Portfolio <3
 
 - 👨‍💻 Projects: **[https://your-portfolio-link](http://malub.netlify.app/)**
 - 📫 Email: **vathana22001@gmail.com**
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect with Me <3
 
 <p align="left">
 <a href="https://www.facebook.com/share/1dbsrfk5ot/" target="_blank">
