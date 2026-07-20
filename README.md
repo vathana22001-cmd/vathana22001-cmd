@@ -30,7 +30,6 @@
 - 📚 I'm continuously improving my programming and problem-solving skills
 - ⚡ Fun fact: I love learning how things work from the ground up.
 
-
 ---
 
 ## 🌐 Portfolio
