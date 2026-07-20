@@ -34,7 +34,7 @@
 
 ## 🌐 Portfolio <3
 
-- 👨‍💻 Projects: **[https://your-portfolio-link](http://malub.netlify.app/)**
+- 👨‍💻 Mini Projects testing : **[https://your-portfolio-link](http://malub.netlify.app/)**
 - 📫 Email: **vathana22001@gmail.com**
 
 ---
