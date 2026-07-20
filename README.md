@@ -7,6 +7,17 @@
 
 ---
 
+## 🚀 About Me
+
+- 🎓 I'm currently studying at **ISTAD**
+- 🌱 I'm currently learning **C++, Java, Web Development, and Git/GitHub**
+- 💻 I enjoy building software and solving programming problems
+- 🤝 I'm looking to collaborate on **Open Source & Student Projects**
+- 📚 I'm continuously improving my programming and problem-solving skills
+- ⚡ Fun fact: I love learning how things work from the ground up.
+
+---
+
 ## 💻 Languages & Tools
 
 <p align="left">
@@ -17,18 +28,8 @@
 <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45"/></a>
 <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45"/></a>
 <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45"/></a>
-<a href="https://github.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45"/></a>
+<a href="https://github.com/"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png" width="45" height="45"/></a>
 </p>
-
----
-## 🚀 About Me
-
-- 🎓 I'm currently studying at **ISTAD**
-- 🌱 I'm currently learning **C++, Java, Web Development, and Git/GitHub**
-- 💻 I enjoy building software and solving programming problems
-- 🤝 I'm looking to collaborate on **Open Source & Student Projects**
-- 📚 I'm continuously improving my programming and problem-solving skills
-- ⚡ Fun fact: I love learning how things work from the ground up.
 
 ---
 
